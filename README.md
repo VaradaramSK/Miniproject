@@ -93,8 +93,7 @@ tem with strong performance (79.61% test accuracy) and practical usability
  workflows
 
 ## Articles published / References
- 1. Howard et al. MobileNetV2: Inverted Residuals and Linear Bottlenecks,
- 2018.
+ 1. Howard et al. MobileNetV2: Inverted Residuals and Linear Bottlenecks,2018.
  2. Deng et al. ImageNet: A Large-Scale Hierarchical Image Database, 2009.
  3. Litjens et al. A Survey on Deep Learning in Medical Image Analysis, 2017.
  4. TensorFlow Documentation: https://www.tensorflow.org/
