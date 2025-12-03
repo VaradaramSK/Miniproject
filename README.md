@@ -9,11 +9,15 @@ Tailored Chatbot for Hostel Booking System is a project designed to integrate a 
 
 ## Features
 <!--List the features of the project as shown below-->
-- Implements advance neural network method.
-- A framework based application for deployment purpose.
-- High scalability.
-- Less time complexity.
-- A specific scope of Chatbot response model, using json data format.
+• ￿ Image Classification: CT scan analysis for kidney abnormalities (Cyst,
+ Normal, Stone, Tumor)
+ • ￿ Clinical Prediction: Risk assessment using laboratory and clinical
+ parameters
+ • ￿Transfer Learning: Leveraging pretrained models for superior accuracy
+ • ￿ Comprehensive Evaluation: Detailed metrics, confusion matrices,
+ and performance reports
+ • ￿ Production-Ready: Lightweight models suitable for deployment
+ • ￿ Well-Documented: Complete guides and examples
 
 ## Requirements
 <!--List the requirements of the project as shown below-->
