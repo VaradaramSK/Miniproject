@@ -18,13 +18,16 @@ Tailored Chatbot for Hostel Booking System is a project designed to integrate a 
 ## Requirements
 <!--List the requirements of the project as shown below-->
  Hardware Requirements
+ 
  Minimum Requirements
+ 
  • Processor: Intel Core i5 (8th Gen) or AMD Ryzen 5 equivalent
  • RAM:8GBDDR4
  • Storage: 20 GB free space (SSD recommended)
  • Graphics: Integrated GPU (Intel HD Graphics 620 or equivalent)
  • Display: 1920×1080 resolution
  Recommended Requirements
+ 
  • Processor: Intel Core i7 (10th Gen) or AMD Ryzen 7 equivalent
  • RAM:16 GBDDR4
  • Storage: 50 GB SSD
@@ -39,6 +42,7 @@ Tailored Chatbot for Hostel Booking System is a project designed to integrate a 
  • CUDA: Version 11.2 or higher
  • cuDNN: Version 8.1 or higher
  Software Requirements
+ 
  Operating System
  6
 • Linux: Ubuntu 20.04 LTS or higher (Recommended)
