@@ -68,12 +68,15 @@ Tailored Chatbot for Hostel Booking System is a project designed to integrate a 
 ## Output
 
 <!--Embed the Output picture at respective places as shown below as shown below-->
-#### Output1 - Name of the output
+#### Output1 - Kidney Cyst
 
-![Screenshot 2023-11-25 134037](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/8c2b6b5c-5ed2-4ec4-b18e-5b6625402c16)
+<img width="1905" height="985" alt="Screenshot 2025-12-03 093627" src="https://github.com/user-attachments/assets/ac041587-3b3c-42ea-8de1-97f773ef6cbd" />
 
-#### Output2 - Name of the output
-![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
+
+#### Output2 - Kidney Tumor
+
+<img width="1915" height="984" alt="Screenshot 2025-12-03 093609" src="https://github.com/user-attachments/assets/22afb256-1112-4821-8919-ff77b64b4389" />
+
 
 Detection Accuracy: 96.7%
 Note: These metrics can be customized based on your actual performance evaluations.
