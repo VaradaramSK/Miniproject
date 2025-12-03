@@ -88,9 +88,12 @@ tem with strong performance (79.61% test accuracy) and practical usability
  workflows
 
 ## Articles published / References
-1. N. S. Gupta, S. K. Rout, S. Barik, R. R. Kalangi, and B. Swampa, “Enhancing Heart Disease Prediction Accuracy Through Hybrid Machine Learning Methods ”, EAI Endorsed Trans IoT, vol. 10, Mar. 2024.
-2. A. A. BIN ZAINUDDIN, “Enhancing IoT Security: A Synergy of Machine Learning, Artificial Intelligence, and Blockchain”, Data Science Insights, vol. 2, no. 1, Feb. 2024.
-
-
-
+ 1. Howard et al. MobileNetV2: Inverted Residuals and Linear Bottlenecks,
+ 2018.
+ 2. Deng et al. ImageNet: A Large-Scale Hierarchical Image Database, 2009.
+ 3. Litjens et al. A Survey on Deep Learning in Medical Image Analysis, 2017.
+ 4. TensorFlow Documentation: https://www.tensorflow.org/
+ 5. Keras API Reference: https://keras.io/
+ 6. Flask Documentation: https://flask.palletsprojects.com/
+ 7. Kidney Disease Statistics- WHO Reports
 
