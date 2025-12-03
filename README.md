@@ -77,6 +77,8 @@ Tailored Chatbot for Hostel Booking System is a project designed to integrate a 
 
 <img width="1915" height="984" alt="Screenshot 2025-12-03 093609" src="https://github.com/user-attachments/assets/22afb256-1112-4821-8919-ff77b64b4389" />
 
+#### Output3 - Normal Kidney
+<img width="1847" height="947" alt="image" src="https://github.com/user-attachments/assets/6e965476-8f94-4081-a9d5-0889fe8b1aea" />
 
 Detection Accuracy: 96.7%
 Note: These metrics can be customized based on your actual performance evaluations.
